@@ -1,11 +1,5 @@
 #My First Package.
 ##dependencies: gt, gtsummary, kableextra, ggplot2, modelsummary
-library(gt)
-library(gtsummary)
-library(tidyverse)
-library(modelsummary)
-library(kableExtra)
-
 
 # use_github(protocol = "https", auth_token = Sys.getenv("GITHUB_PAT"))
 
